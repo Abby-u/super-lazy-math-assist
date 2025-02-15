@@ -1,2 +1,2 @@
-# super-lazy-math-assist
-Used to help me do combination and permutation using code (bruh)
+# Super lazy math assist tool
+Made this bc im lazy to do combination and permutation
